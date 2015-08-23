@@ -66,6 +66,7 @@
     <Compile Include="QSerializer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="NitroBolt.ImmutableStoraging.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

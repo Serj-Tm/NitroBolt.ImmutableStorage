@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>NitroBolt.ImmutableStoraging</id>
+    <version>1.0.0</version>
+    <title>NitroBolt.ImmutableStoraging</title>
+    <authors>Serj-Tm</authors>
+    <owners>Serj-Tm</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Immutable storage.</description>
+    <copyright>Copyright © 2015</copyright>
+    <projectUrl>https://github.com/Serj-Tm/NitroBolt.ImmutableStoraging</projectUrl>
+    <tags>C# Immutable Storage</tags>
+  </metadata>
+</package>
