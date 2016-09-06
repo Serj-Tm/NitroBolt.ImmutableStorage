@@ -34,8 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NitroBolt.Functional, Version=1.0.24.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NitroBolt.Functional.1.0.24\lib\net45\NitroBolt.Functional.dll</HintPath>
+    <Reference Include="NitroBolt.Functional, Version=1.0.35.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NitroBolt.Functional.1.0.35\lib\net45\NitroBolt.Functional.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="NitroBolt.Immutable, Version=1.0.21.0, Culture=neutral, processorArchitecture=MSIL">
@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExpressionHlp.cs" />
+    <Compile Include="Converter.cs" />
     <Compile Include="MemoryDatabase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QSerializer.cs" />
