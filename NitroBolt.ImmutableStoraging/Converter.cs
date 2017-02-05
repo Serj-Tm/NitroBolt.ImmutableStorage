@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NitroBolt.ImmutableStoraging
 {
-    class Converter
+    public class Converter
     {
         public static int? ToInt(string text)
         {

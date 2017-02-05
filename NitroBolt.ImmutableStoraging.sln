@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBolt.ImmutableStoraging", "NitroBolt.ImmutableStoraging\NitroBolt.ImmutableStoraging.csproj", "{8B136524-A37E-4D8B-90CD-28F1F9861325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBolt.ImmutableStoraging.Tests", "NitroBolt.ImmutableStoraging.Tests\NitroBolt.ImmutableStoraging.Tests.csproj", "{B600C6E1-DF25-4ADE-9C07-57CBBA5DF146}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8B136524-A37E-4D8B-90CD-28F1F9861325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B136524-A37E-4D8B-90CD-28F1F9861325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B136524-A37E-4D8B-90CD-28F1F9861325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B600C6E1-DF25-4ADE-9C07-57CBBA5DF146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B600C6E1-DF25-4ADE-9C07-57CBBA5DF146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B600C6E1-DF25-4ADE-9C07-57CBBA5DF146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B600C6E1-DF25-4ADE-9C07-57CBBA5DF146}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
